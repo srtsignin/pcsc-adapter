@@ -1,5 +1,5 @@
 {
-  "name": "pcsc-adapter",
+  "name": "@srtsignin/pcsc-adapter",
   "version": "0.0.0",
   "description": "Nodejs adapter for reading pcsc smart cards",
   "main": "src/index.js",
